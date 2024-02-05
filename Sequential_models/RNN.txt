@@ -1,0 +1,15 @@
+seq2seq --> Attention --> self - attention --> GPT
+
+
+pre trained word embeddings
+
+word2vec
+
+tanh - negative 1 to positive 1
+
+tanh for normalization
+
+bidirectional - dont share parameters
+
+
+nlp - 290
